@@ -1,3 +1,4 @@
+# (Published) (Internetware 2024) (ACM Distinguished Paper) 
 # The_Dark_Side_of_NFTs: ALarge-Scale Empirical Study of Wash Trading
 source: [https://drive.google.com/drive/folders/1yzLbQURsv-bc9EU4q5BR9cmDmGCodzlY?usp=sharing](https://drive.google.com/drive/folders/1bddfHZgk3BSmDUN0aTAub7mJ-_1_36ff?usp=sharing)
 ## data
