@@ -1,4 +1,4 @@
-# The_Dark_Side_of_NFTs: ALarge-Scale Empirical Study of Wash Trading
+# Dataset opened for _Dark_Side_of_NFTs_
 source: [https://drive.google.com/drive/folders/1yzLbQURsv-bc9EU4q5BR9cmDmGCodzlY?usp=sharing](https://drive.google.com/drive/folders/1bddfHZgk3BSmDUN0aTAub7mJ-_1_36ff?usp=sharing)
 ## data
 * collectionRaw.zip: the raw data of event sequences of 285 NFT collections with *address inconsistency*, *timestamp error* and *fake events* collected by *OpenSea API*
@@ -20,3 +20,4 @@ source: [https://drive.google.com/drive/folders/1yzLbQURsv-bc9EU4q5BR9cmDmGCodzl
   `python3 -u collection_slug.py -s start_time -e end_time >collection_slug.log 2>&1`
 ![image](https://user-images.githubusercontent.com/128060644/228736139-732f90ef-27b4-4f12-b35c-2a0871a9cc2c.png)
 * preprocess&overview.py：`python3 preprocess&overview.py`
+
